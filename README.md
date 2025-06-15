@@ -11,9 +11,9 @@ We have completed the translation of the following Tower of Hanoi variants' visu
 6. Tricolor Tower of Hanoi Decomposition
 
 我们已经完成了以下汉诺塔变体的可视化：
-1.经典Hanoi塔动画
-2.相邻移动Hanoi塔
-3.红蓝双色Hanoi塔
-4.双层Hanoi塔
-5.双色Hanoi塔分解
-6.三色Hanoi塔分解
+1. 经典Hanoi塔动画
+2. 相邻移动Hanoi塔
+3. 红蓝双色Hanoi塔
+4. 双层Hanoi塔
+5. 双色Hanoi塔分解
+6. 三色Hanoi塔分解
