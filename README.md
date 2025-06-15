@@ -17,3 +17,5 @@ We have completed the translation of the following Tower of Hanoi variants' visu
 4. 双层Hanoi塔
 5. 双色Hanoi塔分解
 6. 三色Hanoi塔分解
+
+The code for the classic Tower of Hanoi has been uploaded. - (x) 
