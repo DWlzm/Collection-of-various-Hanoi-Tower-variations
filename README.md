@@ -11,7 +11,7 @@ We have completed the translation of the following Tower of Hanoi variants' visu
 6. Tricolor Tower of Hanoi Decomposition
 
 我们已经完成了以下汉诺塔变体的可视化：
-1. 经典Hanoi塔
+1. 经典Hanoi塔 &#9745;
 2. 相邻移动Hanoi塔
 3. 红蓝双色Hanoi塔
 4. 双层Hanoi塔
