@@ -1,6 +1,7 @@
 # Collection-of-various-Hanoi-Tower-variations
 Here is a repository that contains visualizations of various Tower of Hanoi variants, which can be used for Tower of Hanoi course teaching. If it helps you, please give it a star. If you have any questions about the code, you can contact zhongmingliu2004@qq.com.The other code is being organized. Please stay calm and patient. &#9745; represents successful upload.
-（这是一个包含了各种汉诺塔变体可视化的仓库，可以用于汉诺塔课程教学，如果对你有帮助，麻烦你给我点一个star，如果对代码有什么疑问可以联系zhongmingliu2004@qq.com。其他代码正在整理中，请稍安勿躁。）
+
+（这是一个包含了各种汉诺塔变体可视化的仓库，可以用于汉诺塔课程教学，如果对你有帮助，麻烦你给我点一个star，如果对代码有什么疑问可以联系zhongmingliu2004@qq.com。其他代码正在整理中，请稍安勿躁。&#9745; represents that sorting and successful upload have been completed.）
 
 We have completed the translation of the following Tower of Hanoi variants' visualizations:
 1. Classic Tower of Hanoi &#9745;
