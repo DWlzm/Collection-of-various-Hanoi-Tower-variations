@@ -55,3 +55,8 @@ The sequence of moves requires \( 2^3 - 1 = 7 \) steps:
 7. Move disk 1 from A → C
 
 This approach efficiently solves the problem using recursion, with the number of moves growing exponentially with the number of disks.
+# 符号测试  
+1. 数学公式：$E=mc^2$，$\sum_{i=1}^n$  
+2. 特殊符号：αβγ, ±×÷, ℃℉, ★☆  
+3. 中文标点：，。；：“”‘’《》  
+4. Markdown转义：\*斜体\*，\#标题  
