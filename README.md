@@ -6,6 +6,7 @@ Here is a repository that contains visualizations of various Tower of Hanoi vari
 
 
 We have completed the translation of the following Tower of Hanoi variants' visualizations:
+
 0. The complete codebase has been uploaded &#9745;
 1. Classic Tower of Hanoi &#9745;
 2. Adjacent-Move Tower of Hanoi
